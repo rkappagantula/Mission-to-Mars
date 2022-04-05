@@ -22,5 +22,7 @@ This project consisted on a Python script to scrape text and images from various
 
 The web application created with Flask that included images, a table with information about Mars in comparison to Earth, and the latest article title and short description scraped from the NASA's webpage. Each time we click on the "Scrape New Data" button new information will be updated on both the website and the MongoDB.
 
+![image](https://user-images.githubusercontent.com/96051648/161834186-dd8a62be-562a-4787-b251-30d81249e160.png)
+
 
 The scrape included a `news_title` with its brief explanation (`news_paragraph`), a `featured_image`, a table HTML component stored in `facts`, and four picture thumbnails, with their titles, of the different Mars' hemispheres stored in `hemispheres`. 
