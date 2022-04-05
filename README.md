@@ -26,3 +26,4 @@ The web application created with Flask that included images, a table with inform
 
 
 The scrape included a `news_title` with its brief explanation (`news_paragraph`), a `featured_image`, a table HTML component stored in `facts`, and four picture thumbnails, with their titles, of the different Mars' hemispheres stored in `hemispheres`. 
+![image](https://user-images.githubusercontent.com/96051648/161834581-6a95fb7c-c14b-42aa-8647-05305e536748.png)
